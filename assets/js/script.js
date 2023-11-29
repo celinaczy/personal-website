@@ -1,3 +1,9 @@
+//This project is based on the work of @codewithsadee and the original source code can be found at https://github.com/codewithsadee/vcard-personal-portfolio.
+//
+//Original License:
+//MIT License (see LICENSE file for details)
+//copyright 2022 @codewithsadee
+
 'use strict';
 
 
