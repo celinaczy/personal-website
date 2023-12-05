@@ -3,8 +3,7 @@
 Fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript
 
 # Preview 
-https://github.com/celinaczy/personal-website/assets/48793247/4eaa03ec-1624-4ac2-ad44-b62dec483c35
-
+https://github.com/celinaczy/personal-website/assets/48793247/afbe61ee-10b0-4d61-b0a2-b1da80bc252c
 
 # Credits 
 This project is based on the work of @codewithsadee and the original source code can be found at https://github.com/codewithsadee/vcard-personal-portfolio.
